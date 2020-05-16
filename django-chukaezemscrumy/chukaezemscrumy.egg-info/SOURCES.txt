@@ -1,0 +1,15 @@
+MANIFEST.in
+README.rst
+setup.py
+chukaezemscrumy/__init__.py
+chukaezemscrumy/admin.py
+chukaezemscrumy/apps.py
+chukaezemscrumy/models.py
+chukaezemscrumy/tests.py
+chukaezemscrumy/urls.py
+chukaezemscrumy/views.py
+chukaezemscrumy.egg-info/PKG-INFO
+chukaezemscrumy.egg-info/SOURCES.txt
+chukaezemscrumy.egg-info/dependency_links.txt
+chukaezemscrumy.egg-info/top_level.txt
+chukaezemscrumy/migrations/__init__.py
