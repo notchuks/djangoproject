@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['3.14.71.154', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
+    'chukaezemscrumy.apps.ChukaezemscrumyConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
