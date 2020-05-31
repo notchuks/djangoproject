@@ -5,9 +5,6 @@ from django.contrib.auth.models import User
 from random import randint
 
 def index(request):
-    return HttpResponse("This is a Scrum Application")
-
-def index1(request):
     goal = ScrumyGoals.objects.filter(goal_name='Learn Django')
     return HttpResponse(goal)
 
